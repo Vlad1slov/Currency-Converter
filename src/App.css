@@ -38,11 +38,12 @@
 }
 
 .container {
-    background-image: url("./images/imgonline-com-ua-BigPicture-c5DOKVn3Hjhnm.jpg");
+    background-image: url("./images/1678023088_bogatyr-club-p-krasivie-dengi-foni-vkontakte-52.png");
     background-size: cover;
+    height: 450px;
     background-position: center;
     background-attachment: fixed;
-    padding: 200px; /* Пример значения отступа */
+    padding: 200px;
 }
 
 .translucent-box {
@@ -51,8 +52,8 @@
         121,
         135,
         0.5
-    ); /* Пример прозрачного синего цвета */
-    padding: 20px; /* Пример значения отступа внутри контейнера */
+    ); 
+    padding: 20px;
     border-radius: 30px;
 }
 
